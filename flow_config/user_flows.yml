@@ -56,7 +56,7 @@ flows:
       - id: respond
         type: response
         template:
-          text: "你好，这里是 Atguigu 电商助手。我可以帮你查订单状态、查物流、了解商品信息，或者提交退款申请。"
+          text: "你好，这里是 Zhifutong 电商助手。我可以帮你查订单状态、查物流、了解商品信息，或者提交退款申请。"
         next: end
 
       - id: end
